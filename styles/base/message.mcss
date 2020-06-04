@@ -128,7 +128,7 @@ Message {
     margin: 0
     padding: 0 20px
     max-height: 1170px
-    overflow: hidden
+    overflow: scroll
     -expanded {
       max-height: none
     }
